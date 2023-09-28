@@ -21,5 +21,21 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+
+
+
+
+
+
+  
+    "manifest_version": 3,
+    "name": "My React  Extensions",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "logo.png"
+    }
+  
 }
